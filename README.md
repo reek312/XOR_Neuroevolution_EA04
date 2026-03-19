@@ -116,7 +116,7 @@ With **elitism**, this solution is preserved across generations, preventing regr
 Install dependencies:
 
 ```text
-pip install numpy matplotlib
+pip install -r requirements.txt
 ```
 
 Run:
